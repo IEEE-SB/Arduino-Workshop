@@ -1,6 +1,6 @@
 # Arduino-Workshop
 
-+For schematic go to Fritzing 
-+
-+For code go to ArduinoIDE
+####For schematic go to Fritzing 
+
+####For code go to ArduinoIDE
 
